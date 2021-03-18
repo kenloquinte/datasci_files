@@ -1,2 +1,3 @@
-# datasci_files
-Notebooks for DATASCI class
+# Data Science files
+## Kenneth Loquinte
+This repository is for my Notebook files for data science
